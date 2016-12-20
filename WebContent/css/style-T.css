@@ -1,0 +1,167 @@
+.panel-fullheight{
+    min-height: calc( 100vh - 252px );
+}
+.login-form{
+	 min-height: calc( 100vh - 230px );
+}
+.my-footer{
+    height: 50px;
+    background-color: #B7B5B5;
+}
+.text-muted{
+    color: #fff;
+    text-align: center;
+}
+#logo_heading
+{
+    margin-top:20px;
+    height: 90px;
+}
+
+.ute-logo
+{
+    float: left;
+    height: 70px;
+    width: 70px;
+    margin-right: 20px;
+}
+
+#logo_title{
+    margin-top: 10px;
+}
+
+.s-name{
+	border-bottom: 3px solid #4AC5AF;
+	background-color: #fff;
+	color: red;
+	padding: 5px 0;
+	display: inline;
+}
+.website-name{
+	padding-top: 10px;
+}
+.panel_with_table{
+    border: 1px solid #fff;
+    margin-bottom:0;
+}
+
+.table_list{
+    margin-bottom:0;
+}
+.btn_group_der{
+    float:right;
+    margin-right: 20px;
+}
+.type_topic
+{
+    margin:0;   
+    padding: 0;
+}
+#type_topic > div{
+    margin:0;  
+}
+
+/*=================================== login css ================================== */
+.panel-login{
+    background:#F2F2F2;
+    color: #666;
+    font-family: 'RobotoDraft', 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.form-module {
+    position: relative;
+    background: #ffffff;
+    max-width: 380px;
+    width: 100%;
+    border-top: 20px solid #33b5e5;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    margin: 15px auto;
+}
+
+.form-module .form {
+    padding: 45px;
+}
+
+.form-module h2 {
+    margin: 0 0 20px;
+    color: #33b5e5;
+    line-height: 1;
+}
+.form-module input {
+    outline: none;
+    display: block;
+    width: 100%;
+    border: 1px solid #d9d9d9;
+    margin: 0 0 20px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-weight: 400;
+    -webkit-transition: 0.3s ease;
+    transition: 0.3s ease;
+}
+.form-module input#remember-username{
+    display: inline;
+    width: auto;
+}
+.form-module input:focus {
+    border: 1px solid #33b5e5;
+    color: #333333;
+}
+.form-module button {
+    cursor: pointer;
+    background: #33b5e5;
+    width: 100%;
+    border: 0;
+    padding: 7px 20px;
+    color: #ffffff;
+    -webkit-transition: 0.3s ease;
+    transition: 0.3s ease;
+}
+.form-module button:hover {
+    background: #178ab4;
+}
+.form-module .forgot-password {
+    background: #CDCBCB;
+    width: 100%;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    color: #666666;
+    font-size: 12px;
+    text-align: center;
+}
+.form-module .forgot-password a {
+    color: #333333;
+    text-decoration: none;
+}
+.form-module .forgot-password a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+/*=========================================end login css =================================================*/
+
+
+.dropdown-toggle{
+    height: 30px;
+    font-size: 14px;
+}
+.form-div{
+    margin-top: 20px;
+}
+#file{
+    display: none;
+}
+.input-label{
+    background: #009688;
+    color: #fff;
+    padding: 20px;
+    transition: 0.3s;
+    margin-top: 10px;
+}
+.input-label:hover{
+    background: #26a69a;
+    cursor: pointer;
+}
+.fa-upload{
+    margin-right: 10px;
+}

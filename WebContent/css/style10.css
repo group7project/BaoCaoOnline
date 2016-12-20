@@ -1,0 +1,329 @@
+.panel-fullheight{
+    min-height: calc( 100vh - 252px );
+}
+.my-footer{
+    height: 50px;
+    background-color: #B7B5B5;
+}
+.text-muted{
+    color: #fff;
+    text-align: center;
+}
+#logo_heading
+{
+    margin-top:20px;
+    height: 90px;
+}
+
+.ute-logo
+{
+    float: left;
+    height: 70px;
+    width: 70px;
+     margin-right: 20px;
+}
+
+#logo_title{
+    margin-top: 10px;
+}
+
+.s-name{
+  border-bottom: 3px solid #4AC5AF;
+  background-color: #fff;
+  color: red;
+  padding: 5px 0;
+  display: inline;
+}
+.website-name{
+  padding-top: 10px;
+}
+.panel_with_table{
+    border: solid #fff;
+    margin-bottom:0;
+}
+
+.table_list{
+    margin-bottom:0;
+}
+.btn_group_der{
+    float:right;
+    margin-right: 20px;
+}
+#type_topic
+{
+    margin:0;   
+    padding: 0;
+}
+#type_topic > div{
+margin:0;  
+}
+
+.col-md-content
+{
+margin-top: 15px;
+
+}
+#panel-default-tvhd{
+    border: solid #fff;
+}
+
+.table-fixed thead {
+  width: 97%;
+}
+.table-fixed tbody {
+  height: 120px;
+  overflow-y: auto;
+  width: 100%;
+}
+.table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+  display: block;
+}
+.table-fixed tbody td, .table-fixed thead > tr> th {
+  float: left;
+  border-bottom-width: 0;
+  vertical-align: middle;
+}
+.td_btn{
+    padding: 0;
+}
+.btn_float_right{
+    float: right;
+}
+.modal {
+  display:none;
+  padding-top:10px;
+  position:fixed;
+  left:0;
+  top:0;
+  width:100%;
+  height:100%;
+  overflow:auto;
+  background-color:red;
+  background-color:rgba(0,0,0,0.0)
+}
+.modal .modal-header{
+background-color: #ddd;
+}
+.modal .modal-body{
+  position
+  top:0;:fixed;
+  left:0;
+  width:100%;
+  height:100%;
+  overflow:auto;
+  background-color:red;
+  background-color:rgba(0,0,0,0.0)
+}
+
+.modal .modal-footer{
+}
+.modal-content{
+  margin:auto;
+  background-color:#fff;
+  position:relative;
+  padding:0;outline:0;width:600px
+}
+.closebtn{
+  text-decoration:none;
+  float:right;
+  font-size:24px;
+  font-weight:bold;
+  color:inherit
+}
+.container-fluid .row .col-md-9 .cmt{
+  margin-left: 330px;
+
+}
+.container-fluid .row .col-md-9 .form-group{
+ 
+}
+.container-fluid .row .col-sm-9 .form-group{
+  margin-left: 350px;
+}
+ul {
+  margin-left: 0;
+  padding: 0;
+}
+li {
+  list-style-type: none;
+}
+
+/* Style the list items */
+.wells {
+  margin-top: 20px;
+  margin-left: 25px;
+  cursor: pointer;
+  position: relative;
+  padding: 7px 7px 5px 5px;
+  background: #eee;
+  font-size: 18px;
+  transition: 0.2s;
+  list-style-type: none;
+  height: 200px;
+} 
+.wells .ul .li:nth-child(odd) {
+  background: #f9f9f9;
+}
+.wells .ul .li:hover {
+  background: #ddd;
+}
+ul li{
+  list-style-type: none;
+}
+
+/* When clicked on, add a background color and strike out text */
+
+/* Style the close button */
+
+/* Style the header */
+.header {
+  
+  padding: 10px 10px;
+  color: black;
+  text-align: center;
+}
+
+/* Clear floats after the header */
+.header:after {
+  content: "";
+  display: table;
+}
+
+/* Style the "Add" button */
+.addBtn {
+  padding: 5px;
+ 
+  color: #555;
+  float: left;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+p{
+  font-size: 17px;
+}
+#stop{
+float: left;
+margin-bottom: 3px;
+}
+.paner1 .video1{
+    min-height: calc( 100vh - 252px - 47px);
+    background-color: silver;
+    margin-top: 2px;
+}
+.paner1 > .button1 > .button_dung > .form-control{
+
+  background-color: rgba(0,0,0,.2); 
+  color: #3 33
+}
+.p1{
+  font-size: 23px;
+  color: red;
+}
+.p3{
+  text-align: right; 
+}
+.#myDIV > .onclick1 > .form-control{
+  margin-left: 0px;
+}
+#myUL{
+  overflow-y: auto;
+  overflow-x: auto;
+  height: 500px;
+  width: 400px;
+  margin-left: 30px;
+}
+#myDIV{
+  margin-top: 30px;
+}
+
+
+
+.table-fixed thead {
+  width: 97%;
+}
+.table-fixed tbody {
+  height: 230px;
+  overflow-y: auto;
+  width: 100%;
+  border: 3px;
+}
+.table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+  display: block;
+}
+.table-fixed tbody td, .table-fixed thead > tr> th {
+  margin-left: 20px;
+  float: left;
+  border-bottom-width: 3px;
+  color: blue;
+}
+
+/*commemtbox*/
+.detailBox {
+
+    width:95%;
+    border:1px solid #bbb;
+    margin:0px; 
+}
+.titleBox {
+    background-color:#fdfdfd;
+    padding:10px;
+}
+.titleBox label{
+  color:#444;
+  margin:0;
+  display:inline-block;
+}
+
+.commentBox {
+    padding:10px;
+    border-top:1px dotted #bbb;
+}
+.commentBox .form-group:first-child, .actionBox .form-group:first-child {
+    width:80%;
+}
+.commentBox .form-group:nth-child(2), .actionBox .form-group:nth-child(2) {
+    width:18%;
+}
+.actionBox .form-group * {
+    width:100%;
+}
+.taskDescription {
+    margin-top:10px 0;
+}
+.commentList {
+    padding:0;
+    list-style:none;
+    max-height:200px;
+    overflow:auto;
+}
+.commentList li {
+    margin:0;
+    margin-top:10px;
+}
+.commentList li > div {
+    display:table-cell;
+}
+.commenterImage {
+    width:30px;
+    margin-right:5px;
+    height:100%;
+    float:left;
+}
+.commenterImage img {
+    width:100%;
+    border-radius:50%;
+}
+.commentText p {
+    margin:0;
+}
+.sub-text {
+    color:#aaa;
+    font-family:verdana;
+    font-size:11px;
+}
+.actionBox {
+    border-top:1px dotted #bbb;
+    padding:10px;
+}
